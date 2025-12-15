@@ -38,12 +38,12 @@ OctoAcme projects follow a structured lifecycle:
 
 Regular communication cadences ensure alignment and transparency:
 
-- **Daily standups** (15 min): Focus on progress, blockers, and dependencies
-- **Weekly PM + PdM sync**: Alignment on priorities and risks
-- **Twice-weekly delivery team standups**: Team coordination (or as agreed)
-- **Weekly delivery syncs**: Show progress, updates, and flagged risks
+- **Daily standups** (15 min): Team focus on progress, blockers, and dependencies
+- **Weekly PM + PdM sync**: Alignment on priorities and risks between Project and Product Managers
+- **Weekly delivery sync**: Show progress, updates, and flagged risks to stakeholders
+- **Twice-weekly team standups**: Delivery team coordination (or as agreed per project)
 - **Monthly stakeholder updates**: Keep leadership informed
-- **Sprint/milestone demos**: Showcase completed work
+- **Sprint/milestone demos**: Showcase completed work and gather feedback
 - **Ad-hoc escalations**: Address urgent issues as they arise
 
 ## Quality Assurance Practices
