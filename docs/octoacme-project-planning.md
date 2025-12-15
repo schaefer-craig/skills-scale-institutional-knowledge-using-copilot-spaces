@@ -16,6 +16,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+## Role-Specific Planning Activities
+- **UX Designer**: Define user flows, create initial wireframes, identify usability validation points
+- **QA Lead**: Draft test strategy, identify test environments needed, define quality gates
+- **DevOps Engineer**: Assess infrastructure requirements, plan CI/CD updates, estimate deployment complexity
+- **Data Analyst**: Define instrumentation needs, identify metrics to track, plan dashboard updates
+- **Customer Success Manager**: Identify customer impact, plan communication strategy, coordinate beta testing
+
 ## Backlog Item Template
 - Title:
 - Description:
@@ -41,3 +48,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX design approach and deliverables identified (if applicable)
+- [ ] Infrastructure and deployment requirements assessed
+- [ ] Data instrumentation and metrics plan defined
+- [ ] Customer communication strategy outlined (for customer-facing features)

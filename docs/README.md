@@ -21,7 +21,11 @@ Projects at OctoAcme involve clearly defined roles with specific responsibilitie
 - **Project Managers**: Coordinate delivery activities, manage schedules, risks, and communications
 - **Product Managers**: Define outcomes, prioritize backlog, and measure success
 - **Developers**: Implement features, collaborate on design and testability
-- **QA/Testing**: Validate quality and acceptance criteria
+- **UX Designers**: Create user-centered designs and ensure intuitive experiences
+- **Quality Assurance Lead**: Define testing strategies and ensure quality standards
+- **DevOps Engineers**: Build CI/CD pipelines and maintain infrastructure
+- **Data Analysts**: Turn data into insights and track success metrics
+- **Customer Success Managers**: Ensure customer satisfaction and gather feedback
 - **Stakeholders**: Provide inputs, approvals, and feedback
 
 ## Project Lifecycle
